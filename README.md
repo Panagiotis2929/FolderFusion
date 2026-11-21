@@ -22,5 +22,6 @@
 ## Screenshots
 
 ```md
-<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/39ca1e0f-c187-4c00-b881-6bc5683610fc" />
+<img width="1917" height="1018" alt="Στιγμιότυπο οθόνης 2026-11-22 015251" src="https://github.com/user-attachments/assets/8ea2ee7c-0583-49e3-b76d-11f6175a8520" />
+
 ```
