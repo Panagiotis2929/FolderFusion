@@ -19,7 +19,7 @@
 | `branding.py` | Logo, icon and glyph generation (Pillow) |
 | `settings.py` | Saved settings (`~/.folderfusion/settings.json`) |
 
-## Screenshots
+## Screenshot
 
 <img width="1917" height="1018" alt="Στιγμιότυπο οθόνης 2026-11-22 015251" src="https://github.com/user-attachments/assets/8ea2ee7c-0583-49e3-b76d-11f6175a8520" />
 
