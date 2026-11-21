@@ -379,7 +379,7 @@ class App(_Base):
         brand.grid(row=0, column=0, sticky="ew", padx=Space.L, pady=(Space.L + 4, Space.L))
         ctk.CTkLabel(brand, text="", image=self.img_logo).grid(row=0, column=0, rowspan=2, padx=(0, 12))
         ctk.CTkLabel(brand, text=APP_NAME, font=f.brand, text_color=C.TEXT, anchor="w").grid(row=0, column=1, sticky="w")
-        ctk.CTkLabel(brand, text="Merge folders, fast", font=f.tiny, text_color=C.MUTED, anchor="w").grid(row=1, column=1, sticky="w")
+        ctk.CTkLabel(brand, text="Merge Folders... Fast", font=f.tiny, text_color=C.MUTED, anchor="w").grid(row=1, column=1, sticky="w")
 
         self.add_btn = ctk.CTkButton(
             sb, text="  Add Folder", image=self.img_plus, compound="left", height=44, font=f.button,

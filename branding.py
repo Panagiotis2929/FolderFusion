@@ -6,7 +6,7 @@ from pathlib import Path
 from PIL import Image, ImageChops, ImageDraw, ImageOps
 
 APP_NAME = "FolderFusion"
-TAGLINE = "Merge folders in seconds."
+TAGLINE = "Merge Folders... Fast"
 
 _GRAD_FROM = (79, 70, 229)    # indigo
 _GRAD_TO = (14, 165, 233)     # sky blue
