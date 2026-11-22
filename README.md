@@ -1,9 +1,25 @@
 # FolderFusion
 
-**Merge folders in seconds.** FolderFusion takes subfolders from several folders
-(for example `train`, `valid`, `test` from multiple datasets) and combines them into one clean folder.
+**Merge Folders... Fast.**
 
-DOWNLOAD, UNZIP, RUN IT!
+FolderFusion takes subfolders from several folders (for example `train`, `valid`, `test` from multiple datasets) and combines them into one clean folder.
+
+## Download
+
+Get the latest version from the [Releases](../../releases) page, unzip it and run `FolderFusion.exe`.
+
+> Windows may show "Windows protected your PC" because the app is not code-signed. Click **More info → Run anyway**.
+
+## Features
+
+- Merge same-named subfolders from many folders into one
+- Copy or move files
+- Choose what happens on name conflicts: rename, skip or overwrite
+- Optional prefix with the source folder name, so files never clash
+- Drag and drop folders
+- Progress bar, cancel button and automatic rollback
+- Dark and light theme
+
 ## Shortcuts
 
 - `Ctrl+O` add folder
