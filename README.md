@@ -3,6 +3,7 @@
 **Merge folders in seconds.** FolderFusion takes subfolders from several folders
 (for example `train`, `valid`, `test` from multiple datasets) and combines them into one clean folder.
 
+DOWNLOAD, UNZIP, RUN IT!
 ## Shortcuts
 
 - `Ctrl+O` add folder
